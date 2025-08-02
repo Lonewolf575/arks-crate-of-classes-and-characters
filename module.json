@@ -1,0 +1,62 @@
+{
+  "id": "arks-crate-of-classes-and-characters",
+  "title": "Ark's Crate of Classes and Characters",
+  "version": "1.0.1",
+  "manifest": "https://github.com/Lonewolf575/arks-crate-of-classes-and-characters/releases/latest/download/module.json",
+  "download": "https://github.com/Lonewolf575/arks-crate-of-classes-and-characters/releases/download/1.0.1/module.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Arkman575",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "classes",
+      "label": "Character Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "origins",
+      "label": "Character Origins",
+      "path": "packs/origins",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Arks Crate",
+      "sorting": "m",
+      "color": "#c9d5f8",
+      "packs": [ "classes", "origins" ]
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}
