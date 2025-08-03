@@ -1,3 +1,5 @@
-2025/08/02-13:34:15.015 6bf8 Recovering log #42
-2025/08/02-13:34:15.018 6bf8 Delete type=0 #42
-2025/08/02-13:34:15.018 6bf8 Delete type=3 #40
+2025/08/02-22:33:49.053 49fc Recovering log #53
+2025/08/02-22:33:49.054 49fc Level-0 table #55: started
+2025/08/02-22:33:49.056 49fc Level-0 table #55: 51255 bytes OK
+2025/08/02-22:33:49.058 49fc Delete type=0 #53
+2025/08/02-22:33:49.059 49fc Delete type=3 #51
