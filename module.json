@@ -1,7 +1,7 @@
 {
   "id": "arks-crate-of-classes-and-characters",
   "title": "Ark's Crate of Classes and Characters",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "manifest": "https://github.com/Lonewolf575/arks-crate-of-classes-and-characters/releases/latest/download/module.json",
   "download": "https://github.com/Lonewolf575/arks-crate-of-classes-and-characters/releases/download/1.1.0/module.zip",
   "compatibility": {
@@ -39,6 +39,83 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "fools_classes",
+      "label": "Character Classes",
+      "path": "packs/fools_classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fools_origins",
+      "label": "Character Origins",
+      "path": "packs/fools_origins",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fools_rolls",
+      "label": "Roll Tables",
+      "path": "packs/fools_rolls",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fools_spells",
+      "label": "Spells",
+      "path": "packs/fools_spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fools_entry",
+      "label": "Fool's Rules",
+      "path": "packs/fools_entry",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Equipment",
+      "path": "packs/equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "fools_equipment",
+      "label": "Equipment",
+      "path": "packs/fools_equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -46,7 +123,34 @@
       "name": "Arks Crate",
       "sorting": "m",
       "color": "#c9d5f8",
-      "packs": [ "classes", "origins" ]
+      "packs": [],
+      "folders": [
+        {
+          "name": "Arks General Stuff",
+          "sorting": "m",
+          "color": "#c9d5f8",
+          "packs": [
+            "classes",
+            "origins",
+            "equipment"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Fools Gold",
+          "sorting": "m",
+          "color": "#856a00",
+          "packs": [
+            "fools_classes",
+            "fools_origins",
+            "fools_rolls",
+            "fools_spells",
+            "fools_entry",
+            "fools_equipment"
+          ],
+          "folders": []
+        }
+      ]
     }
   ],
   "relationships": {

@@ -1,0 +1,41 @@
+2025/08/23-14:42:15.445 2a90 Recovering log #28
+2025/08/23-14:42:15.447 2a90 Level-0 table #31: started
+2025/08/23-14:42:15.449 2a90 Level-0 table #31: 56571 bytes OK
+2025/08/23-14:42:15.452 2a90 Delete type=2 #23
+2025/08/23-14:42:15.452 2a90 Delete type=2 #25
+2025/08/23-14:42:15.453 2a90 Delete type=2 #27
+2025/08/23-14:42:15.453 2a90 Delete type=0 #28
+2025/08/23-14:42:15.453 2a90 Delete type=3 #26
+2025/08/23-14:42:16.207 4eb8 Compacting 1@0 + 1@1 files
+2025/08/23-14:42:16.209 4eb8 Generated table #33@0: 251 keys, 63453 bytes
+2025/08/23-14:42:16.210 4eb8 Compacted 1@0 + 1@1 files => 63453 bytes
+2025/08/23-14:42:16.211 4eb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/23-14:42:16.211 4eb8 Delete type=2 #29
+2025/08/23-14:42:16.211 4eb8 Delete type=2 #31
+2025/08/23-15:31:38.962 4eb8 Level-0 table #35: started
+2025/08/23-15:31:38.975 4eb8 Level-0 table #35: 737880 bytes OK
+2025/08/23-15:31:38.976 4eb8 Delete type=0 #32
+2025/08/23-15:41:15.914 4eb8 Compacting 1@0 + 1@1 files
+2025/08/23-15:41:15.919 4eb8 Generated table #36@0: 307 keys, 77615 bytes
+2025/08/23-15:41:15.919 4eb8 Compacted 1@0 + 1@1 files => 77615 bytes
+2025/08/23-15:41:15.920 4eb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/23-15:41:15.920 4eb8 Delete type=2 #33
+2025/08/23-15:41:15.920 4eb8 Delete type=2 #35
+2025/08/23-16:00:53.176 4eb8 Level-0 table #38: started
+2025/08/23-16:00:53.189 4eb8 Level-0 table #38: 790594 bytes OK
+2025/08/23-16:00:53.190 4eb8 Delete type=0 #34
+2025/08/23-16:13:15.939 4eb8 Compacting 1@0 + 1@1 files
+2025/08/23-16:13:15.944 4eb8 Generated table #39@0: 365 keys, 93499 bytes
+2025/08/23-16:13:15.944 4eb8 Compacted 1@0 + 1@1 files => 93499 bytes
+2025/08/23-16:13:15.945 4eb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/23-16:13:15.945 4eb8 Delete type=2 #36
+2025/08/23-16:13:15.945 4eb8 Delete type=2 #38
+2025/08/23-16:22:22.888 4eb8 Level-0 table #41: started
+2025/08/23-16:22:22.901 4eb8 Level-0 table #41: 797100 bytes OK
+2025/08/23-16:22:22.902 4eb8 Delete type=0 #37
+2025/08/23-16:25:12.759 4eb8 Compacting 1@0 + 1@1 files
+2025/08/23-16:25:12.764 4eb8 Generated table #42@0: 411 keys, 106073 bytes
+2025/08/23-16:25:12.764 4eb8 Compacted 1@0 + 1@1 files => 106073 bytes
+2025/08/23-16:25:12.765 4eb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/23-16:25:12.765 4eb8 Delete type=2 #39
+2025/08/23-16:25:12.765 4eb8 Delete type=2 #41
