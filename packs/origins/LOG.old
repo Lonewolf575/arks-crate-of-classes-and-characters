@@ -1,14 +1,3 @@
-2025/09/26-22:38:05.504 7ad8 Delete type=3 #1
-2025/09/26-23:46:49.224 3fa8 Level-0 table #114: started
-2025/09/26-23:46:49.224 3fa8 Level-0 table #114: 5246 bytes OK
-2025/09/26-23:46:49.226 3fa8 Delete type=0 #112
-2025/09/26-23:46:49.229 3fa8 Manual compaction at level-0 from '!folders!5EN3x17e9MR57uiM' @ 72057594037927935 : 1 .. '!items.effects!y59KEdLrbYOQpw4Y.RsqEbTRXj2Cje3lo' @ 0 : 0; will stop at '!items!KKgbpQBTGduqVPyS' @ 340 : 1
-2025/09/26-23:46:49.229 3fa8 Compacting 4@0 + 0@1 files
-2025/09/26-23:46:49.232 3fa8 Generated table #115@0: 29 keys, 25932 bytes
-2025/09/26-23:46:49.232 3fa8 Compacted 4@0 + 0@1 files => 25932 bytes
-2025/09/26-23:46:49.233 3fa8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/26-23:46:49.233 3fa8 Delete type=2 #92
-2025/09/26-23:46:49.233 3fa8 Delete type=2 #96
-2025/09/26-23:46:49.233 3fa8 Delete type=2 #110
-2025/09/26-23:46:49.233 3fa8 Delete type=2 #114
-2025/09/26-23:46:49.241 3fa8 Manual compaction at level-0 from '!items!KKgbpQBTGduqVPyS' @ 340 : 1 .. '!items.effects!y59KEdLrbYOQpw4Y.RsqEbTRXj2Cje3lo' @ 0 : 0; will stop at (end)
+2025/09/26-23:50:17.256 1bec Recovering log #113
+2025/09/26-23:50:17.259 1bec Delete type=0 #113
+2025/09/26-23:50:17.259 1bec Delete type=3 #111
